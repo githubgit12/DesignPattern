@@ -1,4 +1,4 @@
-package test01;
+package singleton;
 
 class A {
     private static A a = new A();

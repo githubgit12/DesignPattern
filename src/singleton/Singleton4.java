@@ -1,4 +1,4 @@
-package test01;
+package singleton;
 
 /**
  * 枚举单例模式

@@ -1,4 +1,4 @@
-package test01;
+package singleton;
 
 /**
  * 懒汉式双重锁
