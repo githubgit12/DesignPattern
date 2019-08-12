@@ -1,6 +1,6 @@
 package singleton;
 /*
-  单例模式
+  单例模式（最常用的）
  */
 public class Singleton {
     private static final Singleton instance = new Singleton();
